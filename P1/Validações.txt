@@ -1,0 +1,9 @@
+P1A - Validado: 2 Pontos.
+P1B - Validado: 2 Pontos.
+P1C - Validado: 2 Pontos.
+P1D - Validado: 2 Pontos.
+P1E - Validado: 2 Pontos.
+
+Total - 5 Validados: 2 * 5 = 10 Pontos.
+
+Acumulado - P1 = 10 Pontos.
